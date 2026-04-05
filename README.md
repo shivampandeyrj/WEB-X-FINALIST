@@ -31,11 +31,16 @@ Create a folder named **exactly** after your team at the repository root.
 Use only lowercase letters, numbers, and hyphens (-)
 ❌ No spaces
 ❌ No special characters
-✅ Example: team-alpha, code-masters
+
+Example:
+
+team-alpha  
+code-masters  
+📦 Required Contents
 
 Each team folder must contain:
 
-README.md — includes:
+README.md, which includes:
 🔗 Live deployment link
 📄 Project description
 👥 Team details

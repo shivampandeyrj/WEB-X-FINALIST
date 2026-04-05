@@ -37,20 +37,17 @@ Examples:
   code-masters  
 
 
-📦 Required Contents (inside each team folder)
+📦 Required Contents
 
-  your-team-name/
-  ├── README.md        ← must include:
-  │     • Live deployment link  
-  │     • Project description  
-  │     • Team details  
-  │     • Tech stack  
-  │
-  ├── src/ OR project files  
-  │     ← complete source code  
-  │
-  └── assets/ (optional)  
-        ← screenshots / demo video links  
+Each team folder must contain:
+
+README.md, which includes:
+🔗 Live deployment link
+📄 Project description
+👥 Team details
+🛠️ Tech stack
+📂 Complete source code
+📸 Screenshots or demo video (optional but recommended)
 
 ---
 

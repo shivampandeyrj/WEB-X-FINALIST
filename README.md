@@ -26,27 +26,31 @@ Create a folder named **exactly** after your team at the repository root.
   ├── CodeMasters/
   └── Innovators/
 ~~~
-
 📌 Naming Rules
-Use only lowercase letters, numbers, and hyphens (-)
-❌ No spaces
-❌ No special characters
 
-Example:
+- Use only lowercase letters, numbers, and hyphens (-)  
+- No spaces  
+- No special characters  
 
-team-alpha  
-code-masters  
-📦 Required Contents
+Examples:
+  team-alpha  
+  code-masters  
 
-Each team folder must contain:
 
-README.md, which includes:
-🔗 Live deployment link
-📄 Project description
-👥 Team details
-🛠️ Tech stack
-📂 Complete source code
-📸 Screenshots or demo video (optional but recommended)
+📦 Required Contents (inside each team folder)
+
+  your-team-name/
+  ├── README.md        ← must include:
+  │     • Live deployment link  
+  │     • Project description  
+  │     • Team details  
+  │     • Tech stack  
+  │
+  ├── src/ OR project files  
+  │     ← complete source code  
+  │
+  └── assets/ (optional)  
+        ← screenshots / demo video links  
 
 ---
 
